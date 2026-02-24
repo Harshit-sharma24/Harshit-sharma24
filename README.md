@@ -1,29 +1,31 @@
 <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-<h3 align="center">🚀 Coding Learner | Aspiring Software Developer</h3>
+<h3 align="center">🚀 Aspiring Software Developer | C Programmer | Android Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=C+Programmer+%7C+Problem+Solver;Web+Development+Learner;Android+(Kotlin)+App+Builder;Learning+Git+%26+Linux+Step+by+Step" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=C+Programmer+%F0%9F%92%BB;Web+Development+Learner+%F0%9F%8C%90;Android+(Kotlin)+App+Developer+%F0%9F%93%B1;Future+Industry+Ready+Engineer+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔥 Passionate about **C Programming** & **Web Development**
-- 🧠 I love understanding how things work behind the scenes
-- 🛠 Building projects to improve **logic + problem-solving**
-- 🌱 Currently learning consistently, one step at a time
+
+- 🔥 Passionate about **C Programming & Logic Building**
+- 📱 Currently building an **Android App using Kotlin**
+- 🌐 Learning **Web Development (HTML, CSS, JavaScript)**
+- 🧠 Focused on improving **Problem Solving & Real-World Skills**
+- 🚀 Goal: Become an Industry-Ready Software Developer
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-Android-purple?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Basics-yellow?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-Android-purple?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
@@ -31,55 +33,73 @@
 ## 🚀 Featured Projects
 
 ### 🧾 Inventory Store Billing System (C)
-A C-based console application to manage store inventory and billing using file handling.
 
-✅ **Features**
-- ➕ Add / Update inventory items  
-- 📋 View inventory with item details  
-- 🧮 Generate bills with quantity & total price  
-- ✏ Edit / delete items before finalizing bill  
-- 🔄 Auto-update inventory after confirmation  
-- 🆔 Unique Order IDs for each bill  
+A console-based application to manage store inventory & billing using file handling.
 
-📌 **Tech Used:** C, File Handling, Arrays, Logic Building
+✔ Add / Update Items  
+✔ Generate Bills  
+✔ Auto Update Inventory  
+✔ Unique Order IDs  
+✔ File Handling Implementation  
 
----
-
-### 📱 Computer-Science Android App (Kotlin) *(Work in Progress)*
-An Android app for Computer Science students to help in learning & practice.
-
-✅ **Focus**
-- Clean UI screens  
-- Login / flow based activities  
-- Building features step-by-step  
-
-📌 **Tech Used:** Kotlin, Android Studio
+📌 Demonstrates strong **C fundamentals + logical thinking**
 
 ---
 
-## 🌱 Currently Learning
-- Advanced C Programming  
-- Web Development (HTML, CSS, JavaScript)  
-- Git & GitHub Workflow  
-- Linux Basics → Intermediate  
-- Android Development with Kotlin  
+### 📱 CS Helper Android App (Kotlin) *(Work in Progress)*
+
+An Android app for Computer Science students.
+
+✔ Clean UI Screens  
+✔ Login & Activity Flow  
+✔ Feature-based structured development  
+
+📌 Built using **Kotlin + Android Studio**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-sharma24&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-sharma24&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-sharma24&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 2026 Goals
-- 📱 Build a **complete Android app in Kotlin** (CS Helper App)  
-- 🚀 Build more real-world projects (C + Web + Android)  
-- 📚 Improve DSA & problem-solving  
-- 🤝 Contribute to Open Source  
-- 💼 Become an industry-ready developer  
+
+- 📱 Launch a **complete Android App in Kotlin**
+- 💻 Build multiple real-world projects (C + Web + Android)
+- 📚 Improve DSA & coding consistency
+- 🤝 Contribute to Open Source
+- 🏆 Become Placement Ready Developer
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **officialharshitsharma12@gmail.com**  
-- 💼 LinkedIn: **Harshit Sharma**  
-- 🌐 GitHub: **officialharshitsharma12-byte**
+
+<p align="center">
+  <a href="https://github.com/Harshit-sharma24">
+    <img src="https://img.shields.io/badge/GitHub-Harshit--sharma24-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshit-sharma-199880396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:officialharshitsharma12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Always Learning. Always Building.*
+<h3 align="center">⭐ Always Learning | Always Building | Never Stopping 🚀</h3>
