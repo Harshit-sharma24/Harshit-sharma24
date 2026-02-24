@@ -41,8 +41,7 @@
 <p align="center">
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Basics-yellow?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 ---
 
